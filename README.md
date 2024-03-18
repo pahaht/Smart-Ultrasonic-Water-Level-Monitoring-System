@@ -24,7 +24,7 @@ The LCD display will show the current water level in the tank.
 
 ### *Assembly components
 
-![alt text](https://github.com/pahaht/Smart-Ultrasonic-Water-Level-Monitoring-System/blob/main/images/assembly components.JPG)
+![alt text](https://github.com/pahaht/Smart-Ultrasonic-Water-Level-Monitoring-System/blob/main/images/assemblycomponents.JPG)
 
 ### *Circuit design*
 ![alt text](https://github.com/pahaht/Smart-Ultrasonic-Water-Level-Monitoring-System/blob/main/images/circuitdesign.JPG)
